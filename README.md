@@ -87,7 +87,7 @@ This repository reflects **professional experimentation and learning**, not prod
 ## Author
 
 Maintained by a working professional focused on **applied AI, ML, and Deep Learning**.
-
+LinkedIn: https://www.linkedin.com/in/jigar-mistry-976b8816/
 ---
 
 
